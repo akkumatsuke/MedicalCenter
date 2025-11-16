@@ -1,15 +1,8 @@
 # MedicalCenter
 This repository is a 5th-semester college coursework project. This project was developed as a software module for the Medical Center information system to automate all internal processes. Python, PyQt6, and SQLAlchemy were used in the development.
 
-venv config for VSCode:
+=====================
+First, you need to create a virtual environment and install the configuration from the requirements.txt file.
 
-=========================
-
-psycopg2-binary==2.9.10
-PyQt6==6.9.1
-PyQt6-Qt6==6.9.2
-PyQt6_sip==13.10.2
-setuptools==80.9.0
-SQLAlchemy==2.0.43
-typing_extensions==4.15.0
-wheel==0.45.1
+=====================
+Python version 3.13.2
