@@ -1,0 +1,8 @@
+psycopg2-binary==2.9.10
+PyQt6==6.9.1
+PyQt6-Qt6==6.9.2
+PyQt6_sip==13.10.2
+setuptools==80.9.0
+SQLAlchemy==2.0.43
+typing_extensions==4.15.0
+wheel==0.45.1
